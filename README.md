@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_diegoo_66)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/667179007615434788)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoramosds&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://kasroudra-stats-card.onrender.com/user?user=diegoramosds&theme=tokyonight&locale=pt-br)
 
 
 <br><h3><strong>Tecnologias que tenho utilizado:</strong></h3>
