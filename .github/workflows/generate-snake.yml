@@ -2,9 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+    - cron: "0 0 * * *"  # Roda todos os dias à meia-noite UTC
 
-  workflow_dispatch:
+  workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
   build:
@@ -18,4 +18,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg
+            dist/github-snake.svg
+
+      - name: Commit e push da animação
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add dist/github-snake.svg
+          git commit -m "Atualizando animação da cobrinha" || echo "Nenhuma mudança"
+          git push
