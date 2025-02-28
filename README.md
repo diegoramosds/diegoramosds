@@ -5,7 +5,7 @@
 💡 Atualmente, estou focado no **desenvolvimento front-end**, estudando tecnologias modernas e aprimorando minhas habilidades com **React, TypeScript e Tailwind CSS**.  
 
 🚀 Aqui no meu GitHub, compartilho projetos de desenvolvimento web e aplicações interativas. Meu foco é criar códigos limpos, bem estruturados e com interfaces intuitivas.  
- 
+
 📌 Sinta-se à vontade para explorar meus repositórios e trocar ideias comigo!  
 
 ### 🌍 **Onde me encontrar:**  
