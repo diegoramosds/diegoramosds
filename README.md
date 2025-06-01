@@ -1,4 +1,4 @@
-## 👋 Olá, me chamo DIEGO!
+## 👋 Olá, me chamo DIEGO
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e desenvolvimento de software. Meu objetivo é criar soluções inovadoras e aprimorar minhas habilidades com cada projeto que desenvolvo.  
 
