@@ -2,6 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e desenvolvimento de software. Meu objetivo é criar soluções inovadoras e aprimorar minhas habilidades com cada projeto que desenvolvo.  
 
+
 💡 Atualmente, estou focado no **desenvolvimento front-end**, estudando tecnologias modernas e aprimorando minhas habilidades com **React, TypeScript e Tailwind CSS**.  
 
 🚀 Aqui no meu GitHub, compartilho projetos de desenvolvimento web e aplicações interativas. Meu foco é criar códigos limpos, bem estruturados e com interfaces intuitivas.  
